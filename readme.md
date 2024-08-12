@@ -15,7 +15,7 @@ Follow these steps to get your environment set up:
 
 1. **Clone the repository** (replace with your repository URL if needed):
 
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/khaelll02/WA-pairing-code.git
    cd your-repository
 
 2. **Install project dependencies**:
@@ -48,8 +48,8 @@ To run the application and generate a pairing code:
 Here's an example of what the terminal output might look like:
 
 
-Enter the phone number (with country code): +1234567890
-Your Pairing Code: 1234-5678-9012-3456
+Enter the phone number (with country code): 6281111111111
+Your Pairing Code: KPL8-JY73
 
 
 ## 🔍 Code Explanation
