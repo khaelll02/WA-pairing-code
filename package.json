@@ -1,0 +1,16 @@
+{
+  "name": "WA-pairing-code",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "readline": "^1.3.0",
+    "chalk": "^5.2.0"
+  }
+  "author": "Khaelll",
+  "license": "MIT"
+}
