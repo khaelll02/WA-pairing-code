@@ -83,8 +83,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For further assistance or inquiries, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:khaelllll02@gmail.com)
-- **GitHub**: [your-repository](https://github.com/khaelll02/WA-pairing-code)
+- **Email**: [khaelllll02gmail.com@example.com](mailto:khaelllll02@gmail.com)
+- **GitHub**: [WA-pairing-code](https://github.com/khaelll02/WA-pairing-code)
 
 Thank you for using **WhatsApp Session Bot**! We hope this tool helps streamline your WhatsApp session management.
 
